@@ -1,2 +1,3 @@
-Text changed for gitkraken.
+Text changed for gitkraken. Text added to test branching through gui
+
 
